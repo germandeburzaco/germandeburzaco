@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning a lot of things... permanently lerning
 
 MI PATH:
-  * HTML    (0--------------100)
-  * CSS     (0--------------100)
-  * JS      (0--------------100)
-  * NODEJS  (0--------------100)
-  * EXPRESS (0--------------100)
+  * HTML    
+  * CSS     
+  * JS     
+  * NODEJS  
+  * EXPRESS 
   
   
 
